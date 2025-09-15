@@ -266,7 +266,3 @@ This project is released under the **MIT License** — see `LICENSE` for details
 * Uses MetaMask for wallet interactions and Sepolia testnet for development testing.
 
 ---
-
-
-Which of these should I add next?
-
